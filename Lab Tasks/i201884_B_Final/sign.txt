@@ -1,0 +1,5 @@
+type(employee or customer): ajaja
+name : ajaja
+email: ajaja
+phone: ajaj
+address: ajaj
